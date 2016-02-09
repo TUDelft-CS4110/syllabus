@@ -1,3 +1,7 @@
+Communication
+=============
+We are using Slack! Use **cs4110.slack.com**. Sign-up with your tudelft.nl or utwente.nl email address!
+
 General
 =======
 ### Motivation
