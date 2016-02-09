@@ -85,11 +85,11 @@ We are curerntly building the overview of the literature. Depending on the numbe
  * Godefroid, Patrice, Michael Y. Levin, and David Molnar. "SAGE: whitebox fuzzing for security testing." Queue 10.1 (2012): 20.
  * Cadar, Cristian, and Koushik Sen. "Symbolic execution for software testing: three decades later." Communications of the ACM 56.2 (2013): 82-90.
  * Yan Shoshitaishvili, Ruoyu Wang, Christophe Hauser, Christopher Kruegel, and Giovanni Vigna. 2015. Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware. In Proceedings 2015 Network and Distributed System Security Symposium. Reston, VA: Internet Society.
-* Holler, Christian, Kim Herzig, and Andreas Zeller. "Fuzzing with Code Fragments." USENIX Security Symposium. 2012.
+ * Holler, Christian, Kim Herzig, and Andreas Zeller. "Fuzzing with Code Fragments." USENIX Security Symposium. 2012.
 
 ### Reverse engineering
 
  * Kruegel, C., Robertson, W., Valeur, F., & Vigna, G. (2004, August). Static disassembly of obfuscated binaries. In USENIX security Symposium (Vol. 13, pp. 18-18).
-* Kinder, J., & Veith, H. (2008, January). Jakstab: A static analysis platform for binaries. In Computer Aided Verification (pp. 423-427). Springer Berlin Heidelberg.
+ * Kinder, J., & Veith, H. (2008, January). Jakstab: A static analysis platform for binaries. In Computer Aided Verification (pp. 423-427). Springer Berlin Heidelberg.
  * Willems, C., & Freiling, F. C. (2012). Reverse Code Engineering—State of the Art and Countermeasures. it-Information Technology Methoden und innovative Anwendungen der Informatik und Informationstechnik, 54(2), 53-63.
  * Conti, G., Dean, E., Sinda, M., & Sangster, B. (2008). Visual reverse engineering of binary and data files. In Visualization for Computer Security (pp. 1-17). Springer Berlin Heidelberg.
