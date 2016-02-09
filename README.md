@@ -5,7 +5,7 @@ We are using Slack! Use **cs4110.slack.com**. Sign-up with your tudelft.nl or ut
 General
 =======
 ### Motivation
-Software is one of the most complex artifacts of mankind has ever created, but complexity is the enemy of correctness. Modern software testing tools use a multitude of automated techniques geared toward correct computer code, amongst others:
+Software is one of the most complex artifacts that mankind has ever created, but complexity is the enemy of correctness. Modern software testing tools use a multitude of automated techniques geared towards correct computer code, amongst others:
 
  * Concrete and symbolic (concolic) testing
  * Execution monitoring
@@ -29,9 +29,9 @@ To get knowledge, understanding and skills with respect to modern software testi
 ### Learning outcomes
 The student will acquire: 
 
-Understanding of different advanced software testing techniques
-Ability to test and improve the correctness of existing systems
-Ability to analyze and reverse-engineer software code
+* Understanding of different advanced software testing techniques
+* Ability to test and improve the correctness of existing systems
+* Ability to analyze and reverse-engineer software code
 
 ###Examination
 Lab work 50% including a written report 30% and presentation of the results 20%.
