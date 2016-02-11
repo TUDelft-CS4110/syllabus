@@ -1,9 +1,21 @@
-Communication
-=============
+# TU Delft CS4110 Software Testing and Reverse Engineering
+
+2015-2016 Q3 -- [TU Delft Study Guide](http://studiegids.tudelft.nl/a101_displayCourse.do?course_id=37845)
+
+## Collaboration
+
+### Communication
+
 We are using Slack! Use [cs4110.slack.com](https://cs4110.slack.com/) and sign-up with your tudelft.nl or utwente.nl email address.
 
-General
-=======
+### GitHub
+
+GitHub is used for collaboration on assignments. Teams (project groups) can be formed through the Classroom for GitHub interface; please find the invitation link in the Blackboard announcement.
+
+An empty repository is created for each team and we request you use that for work on the assignments. **Please create at least a README.md file with team member names and the topic of choice.** If you have any questions, ask on Slack.
+
+## General
+
 ### Motivation
 Software is one of the most complex artifacts that mankind has ever created, but complexity is the enemy of correctness. Modern software testing tools use a multitude of automated techniques geared towards correct computer code, amongst others:
 
@@ -15,7 +27,7 @@ Software is one of the most complex artifacts that mankind has ever created, but
  * State machine learning or inference
  * Web testing
 
-###Synopsis
+### Synopsis
 In this course, we learn state-of-the-art techniques for testing the correctness of software. The main content of the course will be a lab assignment in which we will apply a modern testing technique to a software component. This testing lab can be performed in two flavours:
 
  * Black-box: testing and monitoring the software’s interactions without trying to understand its internal logic. Fuzz testing, state machine learning, and tainting are typical examples.
@@ -23,17 +35,17 @@ In this course, we learn state-of-the-art techniques for testing the correctness
 
 The different testing techniques will be studied based on recent scientific literature. Pairs of students will then choose one of the flavors and apply one state-of-the-art testing technique to real software code.
 
-###Aim
+### Aim
 To get knowledge, understanding and skills with respect to modern software testing of real software systems.
 
 ### Learning outcomes
-The student will acquire: 
+The student will acquire:
 
 * Understanding of different advanced software testing techniques
 * Ability to test and improve the correctness of existing systems
 * Ability to analyze and reverse-engineer software code
 
-###Examination
+### Examination
 Lab work 50% including a written report 30% and presentation of the results 20%.
 
 ### Contents
@@ -42,13 +54,11 @@ The main part of the course will consist of a lab assignment where the students 
 ### Core text
 Various papers from the literature
 
-
-Topics & papers
-===============
+## Topics & papers
 
 We are curerntly building the overview of the literature. Depending on the number of students, you will work in a group of 2-3 students, discussing papers from a selected topic and then testing the topic in a lab with real software. The topics and software will be posted here in the next few days.
 
-###Mutation testing
+### Mutation testing
 
  * Jia Yue, Mark Harman. An Analysis and Survey of the Development of Mutation Testing. IEEE Transactions on Software Engineering,  vol.37, no.5, pp.649-678, Sept.-Oct. 2011
  * J.H. Andrews,  L.C. Briand, Y. Labiche,  A.S. Namin. Using Mutation Analysis for Assessing and Comparing Testing Coverage Criteria. IEEE Transactions on Software Engineering, , vol.32, no.8, pp.608-624, Aug. 2006
