@@ -1,18 +1,18 @@
-# TU Delft CS4110 Software Testing and Reverse Engineering
+# TU Delft CS4110: Software Testing and Reverse Engineering
 
-2015-2016 Q3 -- [TU Delft Study Guide](http://studiegids.tudelft.nl/a101_displayCourse.do?course_id=37845)
+2015-2016 Q3 — [TU Delft Study Guide](http://studiegids.tudelft.nl/a101_displayCourse.do?course_id=37845)
 
 ## Collaboration
 
 ### Communication
 
-We are using Slack! Use [cs4110.slack.com](https://cs4110.slack.com/) and sign-up with your tudelft.nl or utwente.nl email address.
+We are using Slack! Use [cs4110.slack.com](https://cs4110.slack.com/) and sign-up with your TU Delft or UTwente email address.
 
 ### GitHub
 
 GitHub is used for collaboration on assignments. Teams (project groups) can be formed through the Classroom for GitHub interface; please find the invitation link in the Blackboard announcement.
 
-An empty repository is created for each team and we request you use that for work on the assignments. **Please create at least a README.md file with team member names and the topic of choice.** If you have any questions, ask on Slack.
+An empty repository is created for each team and we request you use that for work on the assignments. **Please create at least a README.md file with the team member names and the topic of choice.** If you have any questions, ask on Slack. **Please note these repositories are public.**
 
 ## General
 
@@ -22,7 +22,7 @@ Software is one of the most complex artifacts that mankind has ever created, but
  * Concrete and symbolic (concolic) testing
  * Execution monitoring
  * Mutation testing
- * Reverse-engineering and binary analysis
+ * Reverse engineering and binary analysis
  * Search-based and model-based test case generation
  * State machine learning or inference
  * Web testing
@@ -49,14 +49,14 @@ The student will acquire:
 Lab work 50% including a written report 30% and presentation of the results 20%.
 
 ### Contents
-The main part of the course will consist of a lab assignment where the students will need to test a real software system using a state-of-the-art techniques described in the scientific literature. This will be supported by a few lectures covering the tools and techniques that are required for these tasks, such as SAGE, Pitest, CWSandbox, LearnLib, Torx, Sulley, Crawljax, Valgrind, and Z3. There will be many instruction sessions where students can work on their assignment and ask the teachers for assistance.
+The main part of the course will consist of a lab assignment where the students will need to test a real software system using state-of-the-art techniques described in the scientific literature. This will be supported by a few lectures covering the tools and techniques that are required for these tasks, such as SAGE, Pitest, CWSandbox, LearnLib, Torx, Sulley, Crawljax, Valgrind, and Z3. There will be many instruction sessions where students can work on their assignment and ask the teachers and TAs for assistance.
 
 ### Core text
-Various papers from the literature
+Various papers from the literature.
 
 ## Topics & papers
 
-We are currently building the overview of the literature. Depending on the number of students, you will work in a group of 2-3 students, discussing papers from a selected topic and then testing the topic in a lab with real software. The topics and software will be posted here in the next few days.
+We are currently building the literature overview. Depending on the number of students, you will work in groups of 2-3 students, discussing papers from a selected topic and then testing the topic in a lab with real software. The topics and software will be posted here in the next few days.
 
 ### Mutation testing
 
