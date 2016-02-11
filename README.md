@@ -56,7 +56,7 @@ Various papers from the literature
 
 ## Topics & papers
 
-We are curerntly building the overview of the literature. Depending on the number of students, you will work in a group of 2-3 students, discussing papers from a selected topic and then testing the topic in a lab with real software. The topics and software will be posted here in the next few days.
+We are currently building the overview of the literature. Depending on the number of students, you will work in a group of 2-3 students, discussing papers from a selected topic and then testing the topic in a lab with real software. The topics and software will be posted here in the next few days.
 
 ### Mutation testing
 
