@@ -15,7 +15,7 @@
 | [The Chess Masters][team-chess-masters]     | Binary reverse engineering       |
 | [powerpuff][team-powerpuff]                 | Mutation testing                 |
 | [Team Mutation][team-mutation]              | Mutation testing                 |
-| [Los Piratas Informáticos][los-piratas-informaticos] | ??? |
+| [Los Piratas Informáticos][team-los-piratas-informaticos] | ??? |
 
 
 [team-0x90]: https://github.com/TUDelft-CS4110/2016-0x90
