@@ -7,7 +7,7 @@
 | [z3r0-T0-h3r0.NET][team-zerotohero]         | Malware Analysis                 |
 | [team-SP][team-sp]                          | Fuzzing and Concolic Testing     |
 | [SRE Crew][team-sre-crew]                   | Fuzzing and Concolic Testing     |
-| [<team>][team-1]                            | Fuzzing and Concolic Testing     |
+| [&lt;team&gt;][team-1]                            | Fuzzing and Concolic Testing     |
 | [Automated RE - Active state ML, Twente][team-active-learning]                     | Active Learning      |
 | [Zero Width Space][team-zero-width-space]   | Binary reverse engineering       |
 | [DROP TABLE team;][team-drop-table-team]    | Binary reverse engineering       |
@@ -15,6 +15,7 @@
 | [The Chess Masters][team-chess-masters]     | Binary reverse engineering       |
 | [powerpuff][team-powerpuff]                 | Mutation testing                 |
 | [Team Mutation][team-mutation]              | Mutation testing                 |
+| [Los Piratas Informáticos][los-piratas-informaticos] | ??? |
 
 
 [team-0x90]: https://github.com/TUDelft-CS4110/2016-0x90
@@ -30,3 +31,4 @@
 [team-badc0de]: https://github.com/TUDelft-CS4110/2016-mov-eax-0xf46881ce-xor-eax-0xffc54110
 [team-powerpuff]: https://github.com/TUDelft-CS4110/2016-powerpuff
 [team-mutation]: https://github.com/TUDelft-CS4110/2016-team-mutation
+[team-los-piratas-informaticos]: https://github.com/TUDelft-CS4110/2016-los-piratas-informaticos
