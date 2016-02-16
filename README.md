@@ -10,9 +10,9 @@ We are using Slack! Use [cs4110.slack.com](https://cs4110.slack.com/) and sign-u
 
 ### GitHub
 
-GitHub is used for collaboration on assignments. Teams (project groups) can be formed through the Classroom for GitHub interface; please find the invitation link in the Blackboard announcement.
+GitHub is used for collaboration on assignments. Teams (project groups) can be formed through the Classroom for GitHub interface; please find the invitation link in the Blackboard announcement. For your convenience, we also provide [an overview of all teams and their topics](https://github.com/TUDelft-CS4110/syllabus/blob/master/TEAMS.md).
 
-An empty repository is created for each team and we request you use that for work on the assignments. **Please create at least a README.md file with the team member names and the topic of choice.** If you have any questions, ask on Slack. **Please note these repositories are public.**
+An empty, public repository is created for each team and we request you use that for work on the assignments. **Please create at least a README.md file with the team member names and the topic of choice.** If you have any questions, ask on Slack.
 
 ## General
 
