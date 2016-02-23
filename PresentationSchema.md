@@ -20,4 +20,4 @@ March 8th, 2016
  * 14:30 Team: Zero-Width Space, Subject: Binary Reverse Engineering 
  * 14:45 Team: <team>, Subject: Fuzzing and Concolic Testing   
  * 15:00 Team: team powerpuff, Subject: Mutation Testing    
- * 15:15 Team:  
+ * 15:15 Team: DROP TABLE, Subject: Binary Reverse Engineering 
