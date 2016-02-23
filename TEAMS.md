@@ -5,6 +5,7 @@
 | [0x90][team-0x90]                                              | Automated Test Case Generation |
 | [0xcafebabe][team-0xcafebabe]                                  | Malware Analysis               |
 | [z3r0-T0-h3r0.NET][team-zerotohero]                            | Malware Analysis               |
+| [MOV EAX,0xF46881CE;XOR EAX,0xFFC54110][team-badc0de]          | Malware Analysis               |
 | [team-SP][team-sp]                                             | Fuzzing and Concolic Testing   |
 | [SRE Crew][team-sre-crew]                                      | Fuzzing and Concolic Testing   |
 | [&lt;team&gt;][team-1]                                         | Fuzzing and Concolic Testing   |
@@ -12,7 +13,6 @@
 | [Automated RE - Active state ML, Twente][team-active-learning] | Active Learning                |
 | [Zero Width Space][team-zero-width-space]                      | Binary reverse engineering     |
 | [DROP TABLE team;][team-drop-table-team]                       | Binary reverse engineering     |
-| [MOV EAX,0xF46881CE;XOR EAX,0xFFC54110][team-badc0de]          | Binary reverse engineering     |
 | [The Chess Masters][team-chess-masters]                        | Binary reverse engineering     |
 | [powerpuff][team-powerpuff]                                    | Mutation testing               |
 | [Team Mutation][team-mutation]                                 | Mutation testing               |
