@@ -4,20 +4,20 @@ Presentations will take place during the normal lecture in room Chip (Delft). St
 
 March 1, 2016
 
- * 13:45   
- * 14:00   
- * 14:15   
- * 14:30   
- * 14:45   
- * 15:00   
- * 15:15   
+ * 13:45 Team:   
+ * 14:00 Team: TeamMutation, Subject: Mutation Testing
+ * 14:15 Team: SRE Crew, Subject: Fuzzing and Concolic Testing 
+ * 14:30 Team:    
+ * 14:45 Team:   
+ * 15:00 Team:   
+ * 15:15 Team:   
 
 March 8th, 2016
 
- * 13:45   
- * 14:00   
- * 14:15   
- * 14:30   
- * 14:45   
- * 15:00   
- * 15:15  
+ * 13:45 Team: 0x90, Subject: Automated Test Case Generation  
+ * 14:00 Team: 0x0BADC0DE, Subject: ???
+ * 14:15 Team: Z3r0-t0-h3r0_net, Subject: Malware Analysis   
+ * 14:30 Team: Zero-Width Space, Subject: Binary Reverse Engineering 
+ * 14:45 Team: <team>, Subject: Fuzzing and Concolic Testing   
+ * 15:00 Team: team powerpuff, Subject: Mutation Testing    
+ * 15:15 Team:  
