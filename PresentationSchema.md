@@ -18,6 +18,6 @@ March 8th, 2016
  * 14:00 Team: 0xF46881CE ^ 0xFFC54110 = 0x0BADC0DE, Subject: Malware Analysis
  * 14:15 Team: Z3r0-t0-h3r0_net, Subject: Malware Analysis   
  * 14:30 Team: Zero-Width Space, Subject: Binary Reverse Engineering 
- * 14:45 Team:    
+ * 14:45 Team: 0xcafebaby, Subject: Malware Analysis   
  * 15:00 Team: team powerpuff, Subject: Mutation Testing    
  * 15:15 Team: DROP TABLE, Subject: Binary Reverse Engineering 
