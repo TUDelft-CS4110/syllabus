@@ -1,4 +1,4 @@
-### More infor on the report
+### Requirements for the report
 
 In the report, you should write down what you did for the lab, what techniques you used, what problems you encountered when using them, what results you obtained. Essentially, you have to demonstrate that you understand the the used techniques and tools (by explaining what it is they aim to do), and are capable of applying them in practice (by showing what you did), in order to obtain insightful results (by reporting on them).
 
